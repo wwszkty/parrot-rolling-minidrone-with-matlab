@@ -18,6 +18,7 @@ Parrot Minidrone 是一款支持将 MATLAB/Simulink 项目直接部署到硬件�
 [点击观看教程视频](https://www.bilibili.com/video/BV1R4411V7F3/)
 
 > **注意**：上述教程使用的 MATLAB 版本较旧，某些操作与新版本不完全兼容。本项目基于最新版 MATLAB 进行更新，涵盖了最新的调试和部署过程。
+
 无人机与电脑的连接：
 ## [详细教程](与电脑连接.md)
 
