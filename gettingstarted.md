@@ -19,4 +19,4 @@
     ![飞行页面](image/飞行页面.png)
 6.完成飞行
 ## 效果展示
-[点击这里观看视频](image/gettingstarted效果展示.mp4)
+[点击这里下载演示视频](image/gettingstarted效果展示.mp4)
