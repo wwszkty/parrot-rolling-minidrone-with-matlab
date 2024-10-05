@@ -15,7 +15,7 @@
 
 2. 在MATLAB命令行里输入`asbQuadcopterStart`打开对应的Simulink项目。
 
-3. 点击工程快捷方式中的'Set Parrot Target.m。
+3. 点击工程快捷方式中的`Set Parrot Target.m`,`Set Rolling Spider Model.m`。
 
 4. 在hardware board里选择**正确**的机型（这一步官方教程没有提及）。
     ![选择机型](image/选择机型.png)
