@@ -21,12 +21,14 @@
 4. 在主页确认是**正确**的机型。
    ![选择机型](image/主页面.png)
    
-5.右击图中的flightcontrolsystem，选择作为顶层模型打开。
+5.右击图中的flightcontrolsystem，选择作为**顶层模型打开**。
     ![选择机型](image/顶层模型.png)
 
-6.进入如下页面，点击Start按钮，开始测试飞行（Powergain不要设置太大，不要让它起飞）。
+6.同[gettingstarted教程](gettingstarted.md)，选择**HARDWARE**选项卡，并部署到无人机上
+
+7.进入如下页面，点击Start按钮，开始测试飞行（Powergain设置为100%，否则无法起飞）。
   取消勾选，可以设置飞行时间。
-    ![飞行页面](image/飞行页面.png)
+    ![飞行页面](image/quadcopter飞行页面..png)
 7.完成飞行
 ## 效果展示
 [点击这里观看演示视频](https://wwszkty.github.io/parrot-rolling-minidrone-with-matlab/index.html)
