@@ -28,7 +28,7 @@
 
 7.进入如下页面，点击Start按钮，开始测试飞行（Powergain设置为100%，否则无法起飞）。
   取消勾选，可以设置飞行时间。
-    ![飞行页面](image/quadcopter飞行页面..png)
-7.完成飞行
+    
+8.完成飞行
 ## 效果展示
 [点击这里观看演示视频](https://wwszkty.github.io/parrot-rolling-minidrone-with-matlab/index.html)
