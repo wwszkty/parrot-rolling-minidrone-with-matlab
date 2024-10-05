@@ -17,7 +17,9 @@
 
 3. 点击工程快捷方式中的'Set Parrot Target.m。
     ![选择机型](image/target.png)
-4. 在hardware board里选择**正确**的机型（这一步官方教程没有提及）。
+
+4. 在主页确认是**正确**的机型。
+   ![选择机型](image/主页面.png)
    
 5.点击上图中的**Build，Deploy&Start**选项
 
